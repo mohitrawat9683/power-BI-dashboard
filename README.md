@@ -47,4 +47,4 @@ Clothing and Electronics lead in overall profit.
 Sales bounce around month to month — some months clearly do better.  
 
 screenshort of the dashboard:  
-https://github.com/mohitrawat9683/power-BI-dashboard/blob/main/sales%20dashboard.png
+Example:!(https://github.com/mohitrawat9683/power-BI-dashboard/blob/main/sales%20dashboard.png)
