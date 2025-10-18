@@ -24,4 +24,5 @@ This project showcases a comprehensive Sales Dashboard created to visualize key 
 Mohit Singh
 
 Screenshort of project:
-![Sales Dashboar].(https://github.com/mohitrawat9683/power-BI-dashboard/blob/main/sales%20dashboard.png)
+https://github.com/mohitrawat9683/power-BI-dashboard/blob/main/sales%20dashboard.png
+![Sales Dashboard](https://github.com/mohitrawat9683/power-BI-dashboard/blob/main/sales%20dashboard.png)
